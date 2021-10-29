@@ -1,6 +1,6 @@
-# RMIT SEPT 2021 Major Project
+# Bookeroo E-commerce Web Application
 
-# Tuesday 18:30 Reza Group 2
+# RMIT SEPT 2021 Major Project
 
 ## Members
 * Adhiraj Jain (s3821245)
@@ -13,7 +13,7 @@
 
 * Application Link: https://master.dekig6gu29i4c.amplifyapp.com/
 
-* Github repository: https://github.com/jam-dos/SEPT-Tue-1830-Group2.git
+* Github repository: https://github.com/Adhiraj-Jain/Bookeroo-Ecommerce-Web-App
 * jira Board: https://team-1626776183602.atlassian.net/secure/RapidBoard.jspa?projectKey=SGP&rapidView=1&view=planning.nodetail&atlOrigin=eyJpIjoiZmY1MjY3M2JlZTVhNDVhZTg3MDlkODM0YTg2ZDhjOWEiLCJwIjoiaiJ9
 * CircleCI Link: https://app.circleci.com/pipelines/github/jam-dos/SEPT-Tue-1830-Group2
 
